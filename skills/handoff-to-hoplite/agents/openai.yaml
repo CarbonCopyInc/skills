@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff to Hoplite"
+  short_description: "Continue a local coding session in Hoplite"
+  default_prompt: "Use $handoff-to-hoplite to continue this local coding session in Hoplite."
