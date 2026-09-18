@@ -20,7 +20,7 @@ npx skills add CarbonCopyInc/skills --list
 
 | Skill | What it does |
 | --- | --- |
-| [`handoff-to-hoplite`](skills/handoff-to-hoplite/SKILL.md) | Continue a local Claude Code, Codex or OpenCode session in a live Hoplite cloud thread by running `hoplite handoff` safely. Requires the [Hoplite CLI](https://docs.hoplite.sh/cli). |
+| [`handoff-to-hoplite`](skills/handoff-to-hoplite/SKILL.md) | Continue a local Claude Code, Codex or OpenCode session in a live Hoplite cloud thread by running `hoplite handoff` safely. Requires the [Hoplite CLI](https://hoplite.sh/docs/cli). |
 
 ## Layout
 
